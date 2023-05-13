@@ -1,9 +1,8 @@
-package com.course.kafka.consumer;
+package com.course.kafka.consumer.string;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;
-import org.springframework.stereotype.Service;
 
 //@Service
 public class FixedRateConsumer {
